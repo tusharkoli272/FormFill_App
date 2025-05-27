@@ -5,6 +5,10 @@
     <hr>
     <br>
 
+    <label for="name"><b>Pooja</b></label>
+    <input type="text" placeholder="poojatushar" name="name" id="name" required>
+    <br>
+
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
